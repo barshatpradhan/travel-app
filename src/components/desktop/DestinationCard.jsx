@@ -1,6 +1,4 @@
-
-
-import heartIcon from '../../assets/Heart-icon.png';
+import heartIcon from '../../assets/Heart-Icon.png';
 // import heartFilledIcon from '../../assets/Heart-icon.png';
 import locationIcon from '../../assets/location.png';
 
