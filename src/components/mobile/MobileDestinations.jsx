@@ -5,10 +5,10 @@ import DestinationCardMobile from './DestinationCardMobile.jsx';
 const tabs = ['All', 'Recommended', 'Popular', 'Rating', 'Map'];
 
 const DESTS = [
-  { id: 1, title: 'Darjeeling', location: 'West Bengal, India', img: '/src/assets/Toy.webp' },
-  { id: 2, title: 'Manali', location: 'Himachal, India', img: '/src/assets/Toy.webp' },
-  { id: 3, title: 'Goa', location: 'Goa, India', img: '/src/assets/Toy.webp' },
-  { id: 4, title: 'Ooty', location: 'Tamil Nadu, India', img: '/src/assets/Toy.webp' },
+  { id: 1, title: 'Darjeeling', location: 'West Bengal, India', img: '../../assets/Toy.webp' },
+  { id: 2, title: 'Manali', location: 'Himachal, India', img: '../../assets/Toy.webp' },
+  { id: 3, title: 'Goa', location: 'Goa, India', img: '../../assets/Toy.webp' },
+  { id: 4, title: 'Ooty', location: 'Tamil Nadu, India', img: '../../assets/Toy.webp' },
 ];
 
 export default function MobileDestinations() {

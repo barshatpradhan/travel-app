@@ -1067,7 +1067,7 @@ login page
 
 .login-desktop {
   min-height: 100vh;
-  background: url('/src/assets/login-bg.jpg') center/cover no-repeat;
+  background: url('../../assets/login-bg.jpg') center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;

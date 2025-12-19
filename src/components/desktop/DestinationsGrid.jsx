@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import DestinationCard from './DestinationCard.jsx';
 
 
-const sample = '/src/assets/Toy.webp';
+const sample = '../../assets/Toy.webp';
 
 export default function DestinationsGrid() {
   const tabs = ['All','Recommended','Popular','Rating','Map'];

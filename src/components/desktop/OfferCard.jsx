@@ -1,6 +1,6 @@
 
 import React from 'react';
-import arrowImg from '/src/assets/Vector 175.png';
+import arrowImg from '../../assets/Vector 175.png';
 
 export default function OfferCard({
   img,

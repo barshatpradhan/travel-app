@@ -9,14 +9,14 @@ export default function OffersGrid() {
 
   
   const items = [
-    { id: 1, img: '/src/assets/455954512.jpg', title: 'Grab Up to 25% OFF* ', tag: 'HOTELS', cta: 'BOOK NOW' },
-    { id: 2, img: '/src/assets/455954512.jpg', title: 'Weekend Sale — Flights', tag: 'FLIGHTS', cta: 'BOOK NOW' },
-    { id: 3, img: '/src/assets/455954512.jpg', title: 'Cabs Discount upto 20%', tag: 'CABS', cta: 'BOOK NOW' },
-    { id: 4, img: '/src/assets/455954512.jpg', title: 'Holiday Packages 15% off', tag: 'HOLIDAYS', cta: 'BOOK NOW' },
-    { id: 5, img: '/src/assets/455954512.jpg', title: 'Bank Offer: Extra Cashback', tag: 'BANK OFFER', cta: 'BOOK NOW' },
-    { id: 6, img: '/src/assets/455954512.jpg', title: 'Student fares available', tag: 'HOTELS', cta: 'BOOK NOW' },
-    // { id: 7, img: '/src/assets/455954512.jpg', title: 'Early Bird Discounts', tag: 'TRAVEL', cta: 'BOOK NOW' },
-    // { id: 8, img: '/src/assets/455954512.jpg', title: 'Limited Time Deal', tag: 'MORE', cta: 'BOOK NOW' },
+    { id: 1, img: '../../assets/455954512.jpg', title: 'Grab Up to 25% OFF* ', tag: 'HOTELS', cta: 'BOOK NOW' },
+    { id: 2, img: '../../assets/455954512.jpg', title: 'Weekend Sale — Flights', tag: 'FLIGHTS', cta: 'BOOK NOW' },
+    { id: 3, img: '../../assets/455954512.jpg', title: 'Cabs Discount upto 20%', tag: 'CABS', cta: 'BOOK NOW' },
+    { id: 4, img: '../../assets/455954512.jpg', title: 'Holiday Packages 15% off', tag: 'HOLIDAYS', cta: 'BOOK NOW' },
+    { id: 5, img: '../../assets/455954512.jpg', title: 'Bank Offer: Extra Cashback', tag: 'BANK OFFER', cta: 'BOOK NOW' },
+    { id: 6, img: '../../assets/455954512.jpg', title: 'Student fares available', tag: 'HOTELS', cta: 'BOOK NOW' },
+    // { id: 7, img: '../../assets/455954512.jpg', title: 'Early Bird Discounts', tag: 'TRAVEL', cta: 'BOOK NOW' },
+    // { id: 8, img: '../../assets/455954512.jpg', title: 'Limited Time Deal', tag: 'MORE', cta: 'BOOK NOW' },
   ];
 
 
